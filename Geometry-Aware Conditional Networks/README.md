@@ -1,14 +1,16 @@
 # Geometry-Aware Conditional Networks
 
 ##Pre-requisites
+ 
  (1) Python 3.6.
  
  (2) Scipy.
  
- (3) TensorFlos (r0.12).
+ (3) TensorFlows (r1.12).
  
 
  ##Datasets
+ 
  (1) You may use any dataset with labels of expression and pose. In our experiments, we use Multi-PIE, KDEF, and RaFD. 
  
  (2) It is better to detect the face before you train the model.
