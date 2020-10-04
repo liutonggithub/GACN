@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="524da7cf-7ace-4f87-a3d9-6abef4b825c7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facial_expression_train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25960">
+              <caret line="1190" column="41" selection-start-line="1190" selection-start-column="41" selection-end-line="1190" selection-end-column="41" />
+              <folding>
+                <element signature="e#76#107#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mainexpression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="28" column="76" selection-start-line="28" selection-start-column="76" selection-end-line="28" selection-end-column="76" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ops.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nonlocal_resnet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>conv2d_same</find>
+      <find>resnet_utils</find>
+      <find>resnet_v1</find>
+      <find>DIS</find>
+      <find>gradient_penalty</find>
+      <find>49,224,224,</find>
+      <find>slim</find>
+      <find>global_avg_pool</find>
+      <find>residual</find>
+      <find>relu</find>
+      <find>def relu</find>
+      <find>fc</find>
+      <find>padding</find>
+      <find>batch_norm</find>
+      <find>test Accex</find>
+      <find>gradient penalty</find>
+      <find>def gradient</find>
+      <find>def padding</find>
+      <find>pdb.set_trace()</find>
+      <find>result</find>
+      <find>samples</find>
+      <find>sparse_softmax_cross</find>
+      <find>Accuracy DGex</find>
+      <find>prelu</find>
+      <find>MultiPie_test/</find>
+      <find>input.png</find>
+      <find>testMULTIPIE</find>
+      <find>test_names</find>
+      <find>my</find>
+      <find>image_name_label</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test_5.py" />
+        <option value="$PROJECT_DIR$/expression_data/MultiPie_test/test.txt" />
+        <option value="$PROJECT_DIR$/expression_data/trainMULTIPIE.txt" />
+        <option value="$PROJECT_DIR$/expression_data/新建文本文档.txt" />
+        <option value="$PROJECT_DIR$/expression_data/genMULTIPIE.txt" />
+        <option value="$PROJECT_DIR$/face_detection_my.py" />
+        <option value="$PROJECT_DIR$/expression_data/testMULTIPIE.txt" />
+        <option value="$PROJECT_DIR$/expression_data/my_test/test.txt" />
+        <option value="$PROJECT_DIR$/face_local_detection_my.py" />
+        <option value="$PROJECT_DIR$/face_local_detection_my1.py" />
+        <option value="$PROJECT_DIR$/nonlocal_resnet_v1_50_nl3.py" />
+        <option value="$PROJECT_DIR$/nonlocal_resnet_utils.py" />
+        <option value="$PROJECT_DIR$/resnet.py" />
+        <option value="$PROJECT_DIR$/read_image_my.py" />
+        <option value="$PROJECT_DIR$/read_imagename_my.py" />
+        <option value="$PROJECT_DIR$/evaluation_my/handle_pretxt.py" />
+        <option value="$PROJECT_DIR$/evaluation_my/pose_exanalyze/label_pre.py" />
+        <option value="$PROJECT_DIR$/evaluation_my/label_pre_pose.py" />
+        <option value="$PROJECT_DIR$/evaluation_my/ex_accuracy_pose.py" />
+        <option value="$PROJECT_DIR$/evaluation_my/pose_exanalyze/analyze_pose.py" />
+        <option value="$PROJECT_DIR$/read_imagename_txt.py" />
+        <option value="$PROJECT_DIR$/evaluation_my/lines_my.py" />
+        <option value="$PROJECT_DIR$/evaluation_my/analyze.py" />
+        <option value="$PROJECT_DIR$/evaluation_my/Bar_Chart_my.py" />
+        <option value="$PROJECT_DIR$/mainexpression.py" />
+        <option value="$PROJECT_DIR$/ops.py" />
+        <option value="$PROJECT_DIR$/nonlocal_resnet.py" />
+        <option value="$PROJECT_DIR$/Facial_expression_train.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-116" />
+    <option name="y" value="97" />
+    <option name="width" value="1843" />
+    <option name="height" value="787" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Facial-expression-recognition_test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Facial-expression-recognition_test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="PFER" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Geometry-Aware Conditional Networks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Geometry-Aware Conditional Networks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Geometry-Aware Conditional Networks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Geometry-Aware Conditional Networks" type="462c0819:PsiDirectoryNode" />
+              <item name="PFER" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/pythonplace/Facial-expression-recognition_test_attention_resnet_multipie" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Bar_Chart_my">
+    <configuration default="true" type="JupiterNotebook" factoryName="Jupyter Notebook" show_console_on_std_out="true">
+      <module name="Facial-expression-recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\envs\tf2\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Bar_Chart_my" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Facial-expression-recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/evaluation_my" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation_my/Bar_Chart_my.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="analyze" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Facial-expression-recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/evaluation_my" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation_my/analyze.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="analyze_pose" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Facial-expression-recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/evaluation_my/pose_exanalyze" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation_my/pose_exanalyze/analyze_pose.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lines_my" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Facial-expression-recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/evaluation_my" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation_my/lines_my.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mainexpression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Facial-expression-recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainexpression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.analyze" />
+      <item itemvalue="Python.Bar_Chart_my" />
+      <item itemvalue="Python.analyze_pose" />
+      <item itemvalue="Python.mainexpression" />
+      <item itemvalue="Python.lines_my" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Bar_Chart_my" />
+        <item itemvalue="Python.analyze" />
+        <item itemvalue="Python.lines_my" />
+        <item itemvalue="Python.mainexpression" />
+        <item itemvalue="Python.analyze_pose" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="524da7cf-7ace-4f87-a3d9-6abef4b825c7" name="Default Changelist" comment="" />
+      <created>1564314578443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564314578443</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_5_py - 2019.09.06 at 21h 46m 55s.xml">
+      <configuration name="pytest in test_5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_5_py - 2019.09.06 at 21h 52m 51s.xml">
+      <configuration name="pytest in test_5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_5_py - 2019.09.06 at 21h 53m 56s.xml">
+      <configuration name="pytest in test_5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_5_py - 2019.09.06 at 21h 54m 47s.xml">
+      <configuration name="pytest in test_5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_5_py - 2019.09.06 at 21h 56m 04s.xml">
+      <configuration name="pytest in test_5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_5_py - 2019.09.06 at 21h 56m 18s.xml">
+      <configuration name="pytest in test_5.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-116" y="97" width="1843" height="787" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16066483" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15873016" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24602333" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3278496" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32742316" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3264516" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14809275" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33290324" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4219355" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3278496" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3278496" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3266745" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facial_expression_train.py</url>
+          <line>437</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mainexpression.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facial_expression_train.py</url>
+          <line>890</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facial_expression_train.py</url>
+          <line>857</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Facial_expression_train.py</url>
+          <line>859</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ops.py</url>
+          <line>184</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="frame" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>i==48</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>frame</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/evaluation_my/99index_test.txt" />
+    <entry file="file://$PROJECT_DIR$/evaluation_my/testlabel.txt" />
+    <entry file="file://$PROJECT_DIR$/evaluation_my/label_pre_pose.py" />
+    <entry file="file://$PROJECT_DIR$/evaluation_my/pose_exanalyze/testlabel_pose0.txt" />
+    <entry file="file://$PROJECT_DIR$/evaluation_my/ex_accuracy_pose.py" />
+    <entry file="file://$PROJECT_DIR$/evaluation_my/bar_chart_pose.png" />
+    <entry file="file://$PROJECT_DIR$/evaluation_my/pose_exanalyze/analyze_pose.py" />
+    <entry file="file://$PROJECT_DIR$/整理没有检测的人脸.txt" />
+    <entry file="file://$PROJECT_DIR$/PFER/test_1/input.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test_1/09.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/samples_1/09.png" />
+    <entry file="file://$PROJECT_DIR$/read_imagename_txt.py" />
+    <entry file="file://$PROJECT_DIR$/PFER/test_1/01.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/samples/01.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test_100/01.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test_1/02.png" />
+    <entry file="file://D:/Anaconda3/envs/tf2/Lib/site-packages/tensorflow/python/training/saver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="1537" selection-start-line="1537" selection-end-line="1537" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PFER/test_2/input.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test/04.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test/02.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test/input.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test/30.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/samples/60.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/samples/07.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test/25.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test/59.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test/60.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test/08.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test/07.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test/01.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test/03.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test/09.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test/06.png" />
+    <entry file="file://$PROJECT_DIR$/PFER/test/05.png" />
+    <entry file="file://$PROJECT_DIR$/evaluation_my/lines.svg" />
+    <entry file="file://$PROJECT_DIR$/evaluation_my/lines_my.py" />
+    <entry file="file://$PROJECT_DIR$/evaluation_my/lines.png" />
+    <entry file="file://$PROJECT_DIR$/evaluation_my/bar_chart.png" />
+    <entry file="file://$PROJECT_DIR$/evaluation_my/bar_pose.png" />
+    <entry file="file://$PROJECT_DIR$/evaluation_my/bar_ex.png" />
+    <entry file="file://$PROJECT_DIR$/evaluation_my/confusion_matrix.png" />
+    <entry file="file://$PROJECT_DIR$/evaluation_my/confusion_matrix_1.png" />
+    <entry file="file://D:/Anaconda3/envs/tf2/Lib/site-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="3323" column="8" selection-start-line="3323" selection-start-column="8" selection-end-line="3323" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/tf2/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2088" column="4" selection-start-line="2088" selection-start-column="4" selection-end-line="2088" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evaluation_my/confusion_matrix_test.png" />
+    <entry file="file://$PROJECT_DIR$/evaluation_my/analyze.py" />
+    <entry file="file://$PROJECT_DIR$/evaluation_my/Bar_Chart_my.py" />
+    <entry file="file://$PROJECT_DIR$/Facial_expression_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25960">
+          <caret line="1190" column="41" selection-start-line="1190" selection-start-column="41" selection-end-line="1190" selection-end-column="41" />
+          <folding>
+            <element signature="e#76#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainexpression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="28" column="76" selection-start-line="28" selection-start-column="76" selection-end-line="28" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nonlocal_resnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
