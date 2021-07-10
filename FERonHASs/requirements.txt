@@ -1,0 +1,10 @@
+mmcv
+tqdm
+gdown
+nmslib
+Cython
+easydict
+python-igraphexit()
+cairocffi
+fastcluster
+numpy>=1.18.1
